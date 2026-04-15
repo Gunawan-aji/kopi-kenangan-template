@@ -3,7 +3,7 @@
  * Database Connection Configuration
  */
 
-$host = 'mysql://mysql:gunawan471@zo8mg3c6wr6scq4hkl6pizdf:3306/kopi_kenangan';
+$host = 'zo8mg3c6wr6scq4hkl6pizdf';
 $user = 'gunawan471';
 $password = 'gunawan471';
 $database = 'kopi_kenangan';
