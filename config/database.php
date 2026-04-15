@@ -21,7 +21,7 @@ try {
 }
 
 // Define base URL
-define('BASE_URL', 'http://kopi-kenangan.gnwn.web.id/');
+define('BASE_URL', 'http://kopi-kenangan.gnwn.web.id');
 define('ADMIN_URL', BASE_URL . '/admin');
 define('ASSETS_URL', BASE_URL . '/assets');
 
