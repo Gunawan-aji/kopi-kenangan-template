@@ -4,7 +4,7 @@
  */
 
 $host = 'zo8mg3c6wr6scq4hkl6pizdf';
-$user = 'root';
+$user = 'mysql';
 $password = 'gunawan471';
 $database = 'kopi_kenangan';
 
